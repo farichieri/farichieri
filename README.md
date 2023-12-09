@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hey! 👋
+I'm Fabricio, a full-stack developer from Argentina 🇦🇷. 
 
-<!--
-**farichieri/farichieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🥑 Founder of [Nutrition Plans](https://nutritionplans.co)
+- 👨‍💻 I’m currently working on [Nutrition Plans](https://nutritionplans.co) building a mobile app
+- 🌱 I’m currently learning React Native & NestJs 
+- 💼 I’m open to work
+    
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, NextJs, Redux NodeJs, Express
+- 👁️ Tailwind, CSS, HTML
+- 💽 MongoDB, Firebase, PostgreSQL, SQL
+- ➕ Jest, Git, Vercel, Docker, REST APIs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [frichieri.dev](https://frichieri.dev)
+- [@farichieri](https://twitter.com/farichieri) on Twitter
+- [@frichieri](https://linkedin.com/in/frichieri) on Linkedin
