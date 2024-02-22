@@ -2,12 +2,11 @@
 I'm Fabricio, a Full-Stack Developer from Argentina 
 
 - 🥑 Founder of [Nutrition Plans](https://nutritionplans.co)
-- 👨‍💻 I’m currently working full-time at [tidalrise.uk](https://tidalrise.uk) as a Frontend Developer
-- 💼 I’m open for part-time freelance works
+- 👨‍💻 I’m open to work
     
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Liquid
-- ⚙️ React, NextJs, Redux, NodeJs, Express, Shopify
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, NextJs, Redux, NodeJs, Express
 - 👁️ Tailwind, CSS, HTML
 - 💽 MongoDB, Firebase, PostgreSQL, SQL
 - ➕ Jest, Git, Vercel, Docker, REST APIs
