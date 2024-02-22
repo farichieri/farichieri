@@ -6,7 +6,7 @@ I'm Fabricio, a Full-Stack Developer from Argentina
     
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, NextJs, Redux, NodeJs, Express
+- ⚙️ React, NextJs, Redux, NodeJs, Express, NestJs
 - 👁️ Tailwind, CSS, HTML
 - 💽 MongoDB, Firebase, PostgreSQL, SQL
 - ➕ Jest, Git, Vercel, Docker, REST APIs
