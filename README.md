@@ -2,7 +2,7 @@
 I'm Fabricio, a Full-Stack Developer from Argentina 
 
 - 🥑 Founder of [Nutrition Plans](https://nutritionplans.co)
-- 👨‍💻 I’m open to work
+- 👨‍💻 With a full agenda
     
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
