@@ -6,10 +6,11 @@ I'm Fabricio, a Full-Stack Developer from Argentina
     
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, NextJs, Redux, NodeJs, Express, NestJs
+- ⚙️ React, NextJs, NodeJs, Express, NestJs
 - 👁️ Tailwind, CSS, HTML
-- 💽 MongoDB, Firebase, PostgreSQL, SQL
-- ➕ Jest, Git, Vercel, Docker, REST APIs
+- 💽 PostgreSQL, MySQL, Prisma, MongoDB, Firebase
+- ➕ Jest, Git, Vercel, Docker, AWS, REST APIs
+- 📚 Web3
 
 ## Contact
 - [frichieri.dev](https://frichieri.dev)
