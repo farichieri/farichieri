@@ -10,6 +10,6 @@ I'm Fabricio, a Full-Stack Developer from Argentina
 
 ## Contact
 - [richieri.io](https://richieri.io)
-- [@farichieri](https://twitter.com/iamrichieri) on X
+- [@iamrichieri](https://twitter.com/iamrichieri) on X
 - [@frichieri](https://linkedin.com/in/frichieri) on Linkedin
 - [@frichieri](https://www.upwork.com/freelancers/frichieri) on Upwork
