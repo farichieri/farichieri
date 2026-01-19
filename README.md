@@ -1,21 +1,29 @@
 ## Hey! 👋  
-I'm Fabricio — a Full-Stack Developer & 🏆 Top Rated Plus on Upwork.
+I'm Fabricio — I build production-ready MVPs in 30 days.
 
-I build modern, high-performance web apps with Next.js, Supabase, and AI.  
-Currently running:
+Full-Stack Developer, partner at [Dynasty](https://dynasty.dev), and 🏆 Top Rated Plus on Upwork.
 
-- 🚀 [Dynasty](https://dynasty.dev): a software agency delivering MVPs in under 30 days  
-- 🍽️ [Fitzen](https://fitzen.ai): an AI-powered calorie tracking app
+I specialize in shipping software that works with real users from day one—not just demos.
+
+**Currently running:**
+- 🚀 [Dynasty](https://dynasty.dev) – Boutique software agency. Max 4 projects/month. Production-ready MVPs in 30 days.
+- 🍽️ [Fitzen](https://fitzen.ai) – AI-powered calorie tracking app (my own SaaS from $0 to revenue)
 
 ## 🛠️ Tech Stack  
-- **Languages**: TypeScript, JavaScript  
-- **Frontend**: React, Next.js, Tailwind, HTML, CSS  
-- **Backend**: Node.js, Express, Nest.js  
-- **Databases**: PostgreSQL, MySQL, Prisma, Supabase  
-- **Tools & DevOps**: Git, Vercel, Docker, AWS, REST APIs, AI
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Supabase, Drizzle ORM, Stripe  
+**AI:** OpenAI, Anthropic Claude, Vercel AI SDK  
+**DevOps:** Vercel, Git, Docker, AWS  
+**Databases:** PostgreSQL, Supabase
+
+## 📂 What I Build
+- SaaS platforms with billing and subscriptions
+- Marketplaces with real transactions
+- Fintech/Proptech products with API integrations
+- AI-powered workflows and automation tools
 
 ## 📬 Let's Connect  
-- 🌐 [richieri.io](https://richieri.io)  
-- 🐦 [@iamrichieri](https://twitter.com/iamrichieri)  
-- 💼 [LinkedIn](https://linkedin.com/in/frichieri)  
-- 💻 [Upwork](https://www.upwork.com/freelancers/frichieri)
+🌐 [richieri.io](https://richieri.io)  
+🐦 [@iamrichieri](https://twitter.com/iamrichieri)  
+💼 [LinkedIn](https://linkedin.com/in/frichieri)  
+💻 [Upwork](https://www.upwork.com/freelancers/frichieri)
