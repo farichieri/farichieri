@@ -1,28 +1,39 @@
-## Hey! 👋  
-I'm Fabricio — I build production-ready MVPs in 30 days.
+## Hey 👋
 
-Full-Stack Developer, partner at [Dynasty](https://dynasty.dev), and 🏆 Top Rated Plus on Upwork.
+I'm Fabricio — I turn prototypes into production-ready products.
 
-I specialize in shipping software that works with real users from day one—not just demos.
+Full-Stack Developer · Partner at [Dynasty](https://dynasty.dev) · 🏆 Top Rated Plus on Upwork (top 3%, 100% JSS)
 
-**Currently running:**
-- 🚀 [Dynasty](https://dynasty.dev) – Boutique software agency. Max 4 projects/month. Production-ready MVPs in 30 days.
-- 🍽️ [Fitzen](https://fitzen.ai) – AI-powered calorie tracking app (my own SaaS from $0 to revenue)
+Most founders can build a demo now. Cursor, Bolt, v0 — great tools. The hard part is what comes after: real users, real transactions, real load. That's where I come in.
 
-## 🛠️ Tech Stack  
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Supabase, Drizzle ORM, Stripe  
-**AI:** OpenAI, Anthropic Claude, Vercel AI SDK  
-**DevOps:** Vercel, Git, Docker, AWS  
-**Databases:** PostgreSQL, Supabase
+**What I run:**
 
-## 📂 What I Build
-- SaaS platforms with billing and subscriptions
-- Marketplaces with real transactions
+- 🏗️ [Dynasty](https://dynasty.dev) — Boutique "Prototype to Production" agency. We take your working demo and ship a product that can actually handle customers. 4 projects/month, max. Senior engineers only — no PMs, no juniors.
+- 🍽️ [Fitzen](https://fitzen.ai) — AI-powered nutrition tracker I built and grew from $0 to revenue.
+
+---
+
+## 🛠️ Stack
+
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Supabase · Drizzle ORM · Stripe  
+**AI:** OpenAI · Anthropic Claude · Vercel AI SDK  
+**DevOps:** Vercel · Docker · AWS  
+**Databases:** PostgreSQL · Supabase
+
+---
+
+## 📂 What I ship
+
+- SaaS platforms with real billing and subscriptions
+- Marketplaces with live transactions
 - Fintech/Proptech products with API integrations
 - AI-powered workflows and automation tools
 
-## 📬 Let's Connect  
+---
+
+## 📬 Find me
+
 🌐 [richieri.io](https://richieri.io)  
 🐦 [@iamrichieri](https://twitter.com/iamrichieri)  
 💼 [LinkedIn](https://linkedin.com/in/frichieri)  
