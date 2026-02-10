@@ -1,40 +1,24 @@
 ## Hey 👋
 
-I'm Fabricio — I turn prototypes into production-ready products.
+I'm Fabricio. I build web apps that work in production — not just in demos.
 
-Full-Stack Developer · Partner at [Dynasty](https://dynasty.dev) · 🏆 Top Rated Plus on Upwork (top 3%, 100% JSS)
+Partner at [Dynasty](https://dynasty.dev) and 🏆 Top Rated Plus on Upwork (top 3%, 100% JSS).
 
-Most founders can build a demo now. Cursor, Bolt, v0 — great tools. The hard part is what comes after: real users, real transactions, real load. That's where I come in.
+In 2026 anyone can vibe-code a prototype. The gap is everything that comes after: auth that doesn't leak, payments that actually charge, a database that survives real traffic. That's what I spend my days on.
 
-**What I run:**
-
-- 🏗️ [Dynasty](https://dynasty.dev) — Boutique "Prototype to Production" agency. We take your working demo and ship a product that can actually handle customers. 4 projects/month, max. Senior engineers only — no PMs, no juniors.
-- 🍽️ [Fitzen](https://fitzen.ai) — AI-powered nutrition tracker I built and grew from $0 to revenue.
-
----
-
-## 🛠️ Stack
-
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Backend:** Node.js · Supabase · Drizzle ORM · Stripe  
-**AI:** OpenAI · Anthropic Claude · Vercel AI SDK  
-**DevOps:** Vercel · Docker · AWS  
-**Databases:** PostgreSQL · Supabase
+**What I'm working on:**
+- 🏗️ [Dynasty](https://dynasty.dev) — we take founders' prototypes and make them production-ready. 4 projects/month, Agustín and I build everything directly.
+- 🍽️ [Fitzen](https://fitzen.ai) — AI nutrition tracker I built from scratch and took to revenue.
 
 ---
 
-## 📂 What I ship
+## Stack
 
-- SaaS platforms with real billing and subscriptions
-- Marketplaces with live transactions
-- Fintech/Proptech products with API integrations
-- AI-powered workflows and automation tools
+Next.js · TypeScript · Supabase · Drizzle ORM · Tailwind CSS · Stripe · Vercel  
+AI: OpenAI · Anthropic Claude · Vercel AI SDK
 
 ---
 
-## 📬 Find me
+## 📬 Links
 
-🌐 [richieri.io](https://richieri.io)  
-🐦 [@iamrichieri](https://twitter.com/iamrichieri)  
-💼 [LinkedIn](https://linkedin.com/in/frichieri)  
-💻 [Upwork](https://www.upwork.com/freelancers/frichieri)
+🌐 [richieri.io](https://richieri.io) · 🐦 [@iamrichieri](https://twitter.com/iamrichieri) · 💼 [LinkedIn](https://linkedin.com/in/frichieri) · 💻 [Upwork](https://www.upwork.com/freelancers/frichieri)
