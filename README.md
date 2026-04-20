@@ -8,7 +8,7 @@ In 2026 anyone can vibe-code a prototype. The gap is everything that comes after
 
 **What I'm working on:**
 - 🏗️ [Dynasty](https://dynasty.dev) — we take founders' prototypes and make them production-ready. 4 projects/month, Agustín and I build everything directly.
-- 🍽️ [Fitzen](https://fitzen.ai) — AI nutrition tracker I built from scratch and took to revenue.
+- 🥑 [Nutreando](https://nutreando.com) — SaaS for nutritionists in Latin America. Built it, shipped it, selling it.
 
 ---
 
